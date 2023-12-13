@@ -1,0 +1,32 @@
+{
+  "name": "puppeteer-node-express",
+  "version": "1.0.0",
+  "description": "a template repo for puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuvosvc/puppeteer-node-express.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "node.js",
+    "express.js"
+  ],
+  "author": "shuvosvc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shuvosvc/puppeteer-node-express/issues"
+  },
+  "homepage": "https://github.com/shuvosvc/puppeteer-node-express#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.55.0",
+    "prettier": "^3.1.1"
+  }
+}
